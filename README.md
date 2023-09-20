@@ -3,11 +3,11 @@
 <h3>Linguagens de Programação</h3>
 <h4>
   <ul>
-  <l1>Java</l1> 
-  <l1>PHP</l1>
-  <l1>HTML e CSS</l1>
-  <l1>Python</l1>
-  <l1>MySQL</l1> 
+  <li>Java</li> 
+  <li>PHP</li>
+  <li>HTML e CSS</li>
+  <li>Python</li>
+  <li>MySQL</l1> 
   </ul>
 </h4>
 
