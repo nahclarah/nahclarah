@@ -7,7 +7,7 @@
   <li>PHP</li>
   <li>HTML e CSS</li>
   <li>Python</li>
-  <li>MySQL</l1> 
+  <li>MySQL</li> 
   </ul>
 </h4>
 
